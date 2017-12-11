@@ -1,0 +1,22 @@
+{
+  "name": "cypress-poc",
+  "version": "1.0.0",
+  "description": "UI automation framework without Selenium",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakirhere/cypress-test-framework.git"
+  },
+  "author": "Zakir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zakirhere/cypress-test-framework/issues"
+  },
+  "homepage": "https://github.com/zakirhere/cypress-test-framework#readme",
+  "dependencies": {
+    "cypress": "^1.1.4"
+  }
+}
